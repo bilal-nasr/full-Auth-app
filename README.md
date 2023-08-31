@@ -1,1 +1,2 @@
-# full-auth-app
+# practice-project
+ 
